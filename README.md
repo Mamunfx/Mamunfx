@@ -10,12 +10,11 @@
 Hello! I'm Md. Moonzoor Mamun Munna, a passionate MERN stack developer from Dhaka, Bangladesh. I love to explore new technologies and apply them in my projects. With a strong foundation in both frontend and backend development, I aim to deliver the best user experience.
 
 ## Current Activities
-- 🔭 I’m currently working on [React app](example.com)
+- 🔭 I’m currently working on [React.js](react.com)
 - 🌱 I’m currently learning **NEXT.js**
-- 👨‍💻 All of my projects are available at [example.com](example.com)
+- 👨‍💻 All of my projects are available at [Github](http://github.com/Mamunfx)
 - 💬 Ask me about **React and Mongodb**
 - 📫 How to reach me **md01993049420@gmail.com**
-- 📄 Know about my experiences [example.com](example.com)
 - ⚡ Fun fact **I think I know very less but can do more !**
 
 ## Skills
