@@ -38,10 +38,6 @@ Hello! I'm Md. Moonzoor Mamun Munna, a passionate MERN stack developer from Dhak
 ![VSCode](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
 ![Canva](https://img.icons8.com/color/48/000000/canva.png)
 
-## Social Links
-[![GitHub](https://img.icons8.com/ios-glyphs/30/000000/github.png)](https://github.com/Mamunfx)
-[![LinkedIn](https://img.icons8.com/ios-filled/30/000000/linkedin.png)](https://www.linkedin.com/in/md-moonzoor-mamun-munna-266050335)
-[![Twitter](https://img.icons8.com/ios-filled/30/000000/twitter.png)](https://twitter.com/Mamunfx)
 
 ## GitHub Stats
 <div align="center">
