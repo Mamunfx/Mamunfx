@@ -1,4 +1,4 @@
-[![MasterHead](https://c.tenor.com/GfSX-u7VGM4AAAAC/tenor.gif)]
+![MasterHead](https://c.tenor.com/GfSX-u7VGM4AAAAC/tenor.gif)
 <h1 align="center">Hi 👋, I'm Md. Moonzoor Mamun Munna</h1>
 <h3 align="center">A passionate MERN stack developer from Dhaka,Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwrfyd6sxf6b9p609arjq.gif"/>
