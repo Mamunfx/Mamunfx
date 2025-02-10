@@ -2,7 +2,7 @@
   <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/tenor.gif" alt="MasterHead">
 </p>
 <h1 align="center">Hi 👋, I'm Md. Moonzoor Mamun Munna</h1>
-<h3 align="center">A passionate MERN stack developer from Dhaka,Bangladesh</h3>
+<h3 align="center">A passionate MERN stack developer from Dhaka, Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwrfyd6sxf6b9p609arjq.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mamunfx&label=Profile%20views&color=0e75b6&style=flat" alt="mamunfx" /> </p>
@@ -58,9 +58,18 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
 </div>
-<div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mamunfx&" alt="mamunfx" /></div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mamunfx&show_icons=true&locale=en&layout=compact" alt="mamunfx" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mamunfx&show_icons=true&locale=en" alt="mamunfx" /></p>
+<div align="center" style="display: flex; justify-content: center; gap: 10px; width: 100%;">
+  <div style="width: 45%; margin: 5px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mamunfx&show_icons=true&locale=en&layout=compact" alt="mamunfx" style="width: 100%;" />
+  </div>
+  <div style="width: 45%; margin: 5px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=mamunfx&show_icons=true&locale=en" alt="mamunfx" style="width: 100%;" />
+  </div>
+</div>
+
+<div align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mamunfx&" alt="mamunfx" />
+</div>
 
 
