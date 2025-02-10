@@ -27,7 +27,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<div align="center">
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -57,19 +57,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-</div>
+</p>
 
-<div align="center" style="display: flex; justify-content: center; gap: 10px; width: 100%;">
-  <div style="width: 45%; margin: 5px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mamunfx&show_icons=true&locale=en&layout=compact" alt="mamunfx" style="width: 100%;" />
-  </div>
-  <div style="width: 45%; margin: 5px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=mamunfx&show_icons=true&locale=en" alt="mamunfx" style="width: 100%;" />
-  </div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mamunfx&show_icons=true&locale=en&layout=compact&theme=default&hide_border=true&count_private=true&include_all_commits=true" alt="mamunfx" style="width: 45%; margin: 5px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mamunfx&show_icons=true&locale=en&theme=default&hide_border=true&count_private=true&include_all_commits=true" alt="mamunfx" style="width: 45%; margin: 5px;" />
 </div>
 
 <div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mamunfx&" alt="mamunfx" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mamunfx&theme=default&hide_border=true" alt="mamunfx" />
 </div>
-
-
