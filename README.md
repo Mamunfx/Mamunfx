@@ -24,6 +24,7 @@ Hello! I'm Md. Moonzoor Mamun Munna, a passionate MERN stack developer from Dhak
 ![CSS3](https://img.icons8.com/color/48/000000/css3.png)
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
 ![React](https://img.icons8.com/color/48/000000/react-native.png)
+![Next](https://img.icons8.com/color/48/000000/nextjs.png)
 ![Redux](https://img.icons8.com/color/48/000000/redux.png)
 ![Sass](https://img.icons8.com/color/48/000000/sass.png)
 
