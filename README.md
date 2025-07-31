@@ -24,6 +24,7 @@ Hello! I'm Md. Moonzoor Mamun Munna, a passionate MERN stack developer from Dhak
 ![CSS3](https://img.icons8.com/color/48/000000/css3.png)
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
 ![React](https://img.icons8.com/color/48/000000/react-native.png)
+![Redux](https://w7.pngwing.com/pngs/413/852/png-transparent-redux-react-logo-javascript-dq-purple-violet-text-thumbnail.png)
 ![Sass](https://img.icons8.com/color/48/000000/sass.png)
 
 ### Backend
@@ -36,6 +37,7 @@ Hello! I'm Md. Moonzoor Mamun Munna, a passionate MERN stack developer from Dhak
 ![Git](https://img.icons8.com/color/48/000000/git.png)
 ![VSCode](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
 ![Canva](https://img.icons8.com/color/48/000000/canva.png)
+
 
 
 ## GitHub Stats
